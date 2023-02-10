@@ -4,7 +4,7 @@
     - Git commands (Add, commit, push, branching, .gitignore).
         > git add . (to add all the files)
 
-        > git commit -m <message> (to create commit/version all changes by git)
+        > git commit -m <message_> (to create commit/version all changes by git)
 
         > git push origin main (to send version/changes to github)
 
